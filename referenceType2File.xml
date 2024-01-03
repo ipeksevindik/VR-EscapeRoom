@@ -1,0 +1,997 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>2d5c3231ac71f2244b2356d9d0ff542c</guid>
+    <fileName>Assets/Plugins/CodeAssist/Editor/AboutWindow.cs</fileName>
+    <timeStamp>2023-07-09T00:40:10+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e9d5f4000d8da6a44970da2c11d11ec2</guid>
+    <fileName>Assets/Plugins/CodeAssist/Editor/Assister.cs</fileName>
+    <timeStamp>2023-07-24T09:22:24+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>328e8c1dd81099442ab9da98ad2c1033</guid>
+    <fileName>Assets/Plugins/CodeAssist/Editor/EditorWindowFocusUtility.cs</fileName>
+    <timeStamp>2023-03-05T19:41:08+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2fe0f1bba4624ac40bc3ae2eba66e2c5</guid>
+    <fileName>Assets/Plugins/CodeAssist/Editor/FeedbackWindow.cs</fileName>
+    <timeStamp>2023-03-08T20:04:44+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f169ed2b890f2b14aba143854ad1de6f</guid>
+    <fileName>Assets/Plugins/CodeAssist/Editor/MainThreadDispatcher.cs</fileName>
+    <timeStamp>2023-03-05T19:41:08+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bbd6cfc57a675ba4bbcc626b3e0ef0e2</guid>
+    <fileName>Assets/Plugins/CodeAssist/Editor/Monitor.cs</fileName>
+    <timeStamp>2023-05-27T18:01:24+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7fdd75c5611a0ad459e12c19962784c3</guid>
+    <fileName>Assets/Plugins/CodeAssist/Editor/MySerializer.cs</fileName>
+    <timeStamp>2023-03-05T19:41:08+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>15c015263982588448f0accca9dc2a01</guid>
+    <fileName>Assets/Plugins/CodeAssist/Editor/NetMQInitializer.cs</fileName>
+    <timeStamp>2023-03-05T19:41:08+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>17ccb9075d4864949a51eda52b3dbdea</guid>
+    <fileName>Assets/Plugins/CodeAssist/Editor/NetMQPublisher.cs</fileName>
+    <timeStamp>2023-07-03T14:34:28+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cd5f22b693a614046b672c2e41f81dc4</guid>
+    <fileName>Assets/Plugins/CodeAssist/Editor/ScriptFinder.cs</fileName>
+    <timeStamp>2023-07-11T14:47:08+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8d59abb6c8a1b3a4e92e44d83d199130</guid>
+    <fileName>Assets/Plugins/CodeAssist/Editor/StatusWindow.cs</fileName>
+    <timeStamp>2023-03-08T20:04:52+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3e0e1613a1274884984b49878d4342af</guid>
+    <fileName>Assets/Plugins/CodeAssist/Editor/UnityClassExtensions.cs</fileName>
+    <timeStamp>2023-03-05T19:41:08+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cda0a1b4e4a715147acd4f58df745c11</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2022-12-14T06:37:41+03:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetCollector</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d104e5d3ea918c34a95e36cc11ae0ed8</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-14T06:37:41+03:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>09cdc30b67abe174b858ffa2afe68c4d</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-14T06:37:41+03:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ClassReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1bcd72cd0db721944b0147d73d655133</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/CollectionData.cs</fileName>
+    <timeStamp>2022-12-14T06:37:41+03:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.CollectionData</string>
+      <string>UnitySweeper.TypeDate</string>
+      <string>UnitySweeper.IReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d69646a7cdf08c8498037f39a25c2922</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2022-12-14T06:37:41+03:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f164ab667861450419032151af6860e0</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-14T06:37:41+03:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1be1956bc3527934ea80694b979945cd</guid>
+    <fileName>Assets/Plugins/CodeAssist/Editor/EditorCoroutines/EditorCoroutine.cs</fileName>
+    <timeStamp>2023-03-05T19:41:08+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bc34067bd49e9554cb8f4710a059a18b</guid>
+    <fileName>Assets/Plugins/CodeAssist/Editor/EditorCoroutines/EditorCoroutineUtility.cs</fileName>
+    <timeStamp>2023-01-03T15:20:20+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>15091863fc7c4ad4bac4c757ac452749</guid>
+    <fileName>Assets/Plugins/CodeAssist/Editor/EditorCoroutines/EditorWaitForSeconds.cs</fileName>
+    <timeStamp>2023-01-03T15:20:28+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a04319ed65b7c9d48a3e40d7ac73b161</guid>
+    <fileName>Assets/Plugins/CodeAssist/Editor/EditorCoroutines/EditorWindowCoroutineExtension.cs</fileName>
+    <timeStamp>2023-01-03T15:20:32+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b461ea668e864694a857b12cbe2a4334</guid>
+    <fileName>Assets/Plugins/CodeAssist/Editor/Input/Binary2TextExec.cs</fileName>
+    <timeStamp>2023-07-17T13:41:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9a07094ce2c72fe41afea3d247632cb4</guid>
+    <fileName>Assets/Plugins/CodeAssist/Editor/Input/InputManagerMonitor.cs</fileName>
+    <timeStamp>2023-07-17T13:41:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bf9e268d8228d394ab5945819b824b9e</guid>
+    <fileName>Assets/Plugins/CodeAssist/Editor/Input/Text2Yaml.cs</fileName>
+    <timeStamp>2023-07-17T13:41:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ca59cd2d39ceda34aae34b92cfd8cc45</guid>
+    <fileName>Assets/Plugins/CodeAssist/Editor/Input/UnityInputManager.cs</fileName>
+    <timeStamp>2023-07-23T16:09:08+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f7707471fa466744a8cbc9a938ee1ee0</guid>
+    <fileName>Assets/Plugins/CodeAssist/Editor/Logger/Attributes.cs</fileName>
+    <timeStamp>2023-07-17T13:41:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1623bbb4f275185428539593c68fb217</guid>
+    <fileName>Assets/Plugins/CodeAssist/Editor/Logger/CommonTools.cs</fileName>
+    <timeStamp>2023-05-27T18:01:24+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>036d5ac31471b344296017b1c72df5f1</guid>
+    <fileName>Assets/Plugins/CodeAssist/Editor/Logger/DomainHashEnricher.cs</fileName>
+    <timeStamp>2023-03-05T19:41:08+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f27523f0b4e9d2a4199f955413bc5899</guid>
+    <fileName>Assets/Plugins/CodeAssist/Editor/Logger/ELogger.cs</fileName>
+    <timeStamp>2023-07-17T13:41:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dcfe56b49cd479445943afcc83871a2b</guid>
+    <fileName>Assets/Plugins/CodeAssist/Editor/Logger/MemorySink.cs</fileName>
+    <timeStamp>2023-03-05T19:41:08+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e3b6f5f813b51f44f9cb3d75fa92c384</guid>
+    <fileName>Assets/Plugins/CodeAssist/Editor/Logger/UnitySink.cs</fileName>
+    <timeStamp>2023-03-05T19:41:08+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6c40b9422545b9940af7d3bbbcdd4bff</guid>
+    <fileName>Assets/Plugins/CodeAssist/Editor/Preferences/PreferenceEntryHolder.cs</fileName>
+    <timeStamp>2023-07-09T13:55:54+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bf2b571c1211e83498708345fff2b0b8</guid>
+    <fileName>Assets/Plugins/CodeAssist/Editor/Preferences/PreferenceMonitor.cs</fileName>
+    <timeStamp>2023-07-09T14:52:54+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a073cda1f71fbec42afa07c555b578df</guid>
+    <fileName>Assets/Plugins/CodeAssist/Editor/Preferences/PreferenceStorageAccessor.cs</fileName>
+    <timeStamp>2023-07-09T14:46:42+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>13b62f4c895b4094eb635edf1820a0af</guid>
+    <fileName>Assets/Plugins/CodeAssist/Editor/Preferences/RegistryMonitor.cs</fileName>
+    <timeStamp>2023-07-09T14:27:30+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fe5b8222a776fd9438495da83fa83aa3</guid>
+    <fileName>Assets/Plugins/CodeAssist/Editor/TinyJson/JsonParser.cs</fileName>
+    <timeStamp>2023-03-05T19:41:08+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4c92429675fb7974ea7933dd0ee6c57c</guid>
+    <fileName>Assets/Plugins/CodeAssist/Editor/TinyJson/JsonWriter.cs</fileName>
+    <timeStamp>2023-01-20T15:52:42+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>96e95fae235456a4884d7fbe7d8ba864</guid>
+    <fileName>Assets/EzySlice/SlicedHull.cs</fileName>
+    <timeStamp>2023-08-10T10:30:07+03:00</timeStamp>
+    <typeFullName>
+      <string>EzySlice.SlicedHull</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>675e55d652a20494686716e77a55b606</guid>
+    <fileName>Assets/EzySlice/Slicer.cs</fileName>
+    <timeStamp>2023-08-10T10:30:07+03:00</timeStamp>
+    <typeFullName>
+      <string>EzySlice.Slicer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1aa27c5683d3e3c409d1b8d98075b196</guid>
+    <fileName>Assets/EzySlice/SlicerExtensions.cs</fileName>
+    <timeStamp>2023-08-10T10:30:07+03:00</timeStamp>
+    <typeFullName>
+      <string>EzySlice.SlicerExtensions</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>201baeca1d806244584e6f8c4cba54e1</guid>
+    <fileName>Assets/Scifi-Gun/ReadMe.cs</fileName>
+    <timeStamp>2022-07-05T00:01:16+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dedd94ca611ba9840ab12bc2d8ffa5aa</guid>
+    <fileName>Assets/Scripts/AnimateHandOnInput.cs</fileName>
+    <timeStamp>2023-10-06T14:17:34.4340953+03:00</timeStamp>
+    <typeFullName>
+      <string>AnimateHandOnInput</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0dc44c5eb69748a45b697397b0740ef1</guid>
+    <fileName>Assets/Scripts/AudioManager.cs</fileName>
+    <timeStamp>2023-09-20T12:37:38+03:00</timeStamp>
+    <typeFullName>
+      <string>Sound</string>
+      <string>AudioManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e78db939ad702cf468efbb8e1e674189</guid>
+    <fileName>Assets/Scripts/BackInGame.cs</fileName>
+    <timeStamp>2023-10-31T17:51:08.4992676+03:00</timeStamp>
+    <typeFullName>
+      <string>BackInGame</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>501ecdd040ca5f6489b1b9e6a1631b50</guid>
+    <fileName>Assets/Scripts/CharacterData.cs</fileName>
+    <timeStamp>2023-10-31T10:37:06.4137607+03:00</timeStamp>
+    <typeFullName>
+      <string>CharacterData</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8d517483cd4f5da4daa859bc513df344</guid>
+    <fileName>Assets/Scripts/DamageEffect.cs</fileName>
+    <timeStamp>2023-10-24T15:49:23.51081+03:00</timeStamp>
+    <typeFullName>
+      <string>DamageEffect</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7346e4a578cc9184499363b50881eea8</guid>
+    <fileName>Assets/Scripts/EnemyAI.cs</fileName>
+    <timeStamp>2023-10-31T15:34:42.4005971+03:00</timeStamp>
+    <typeFullName>
+      <string>EnemyAI</string>
+      <string>EnemyAI+AttackerStates</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7c2d507c3ae9dc744a28e79d568b5806</guid>
+    <fileName>Assets/Scripts/FadeScreen.cs</fileName>
+    <timeStamp>2023-10-25T11:47:17.8352563+03:00</timeStamp>
+    <typeFullName>
+      <string>FadeScreen</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>acd73625e6202bd429d9b4db7e3ba378</guid>
+    <fileName>Assets/Scripts/FireBulletOnActive.cs</fileName>
+    <timeStamp>2023-10-31T17:46:15.3438232+03:00</timeStamp>
+    <typeFullName>
+      <string>FireBulletOnActive</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a97da12ffcb6f33439add386dbac0553</guid>
+    <fileName>Assets/Scripts/FlashlightOnActivate.cs</fileName>
+    <timeStamp>2023-10-30T13:08:11.5494376+03:00</timeStamp>
+    <typeFullName>
+      <string>FlashlightOnActivate</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>af07645f3014a1347a5b1232afc24251</guid>
+    <fileName>Assets/Scripts/GameStartMenu.cs</fileName>
+    <timeStamp>2023-10-30T10:17:59.6812227+03:00</timeStamp>
+    <typeFullName>
+      <string>GameStartMenu</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f088ece9422cdb242b6e23c13db7269e</guid>
+    <fileName>Assets/Scripts/GrabHandPose.cs</fileName>
+    <timeStamp>2023-10-09T15:28:16.5169582+03:00</timeStamp>
+    <typeFullName>
+      <string>GrabHandPose</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>899e12264753d59409ecfd8d9aa373db</guid>
+    <fileName>Assets/Scripts/HandData.cs</fileName>
+    <timeStamp>2023-10-09T09:30:05.3363358+03:00</timeStamp>
+    <typeFullName>
+      <string>HandData</string>
+      <string>HandData+HandModelType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e3cfc1bb977b49d4dad70cf4a7534705</guid>
+    <fileName>Assets/Scripts/OpenPortal.cs</fileName>
+    <timeStamp>2023-10-30T10:30:43.1387192+03:00</timeStamp>
+    <typeFullName>
+      <string>OpenPortal</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6d3779d2fee25aa46b6ed431af8ab0f3</guid>
+    <fileName>Assets/Scripts/PlayAudioFromAudioManager.cs</fileName>
+    <timeStamp>2023-09-20T12:39:03+03:00</timeStamp>
+    <typeFullName>
+      <string>PlayAudioFromAudioManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ed036c1e274b2854caf114ca24a7a13e</guid>
+    <fileName>Assets/Scripts/PlayerTeleport.cs</fileName>
+    <timeStamp>2023-10-16T09:33:15.0760772+03:00</timeStamp>
+    <typeFullName>
+      <string>PlayerTeleport</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7b29c9ee5eccc9a42a33231645d21941</guid>
+    <fileName>Assets/Scripts/SceneTransitionManager.cs</fileName>
+    <timeStamp>2023-10-25T11:32:46.9558911+03:00</timeStamp>
+    <typeFullName>
+      <string>SceneTransitionManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8897d0c3fbd45634fb65a3a92dee951d</guid>
+    <fileName>Assets/Scripts/SetOptionFromUI.cs</fileName>
+    <timeStamp>2023-05-31T15:33:52+03:00</timeStamp>
+    <typeFullName>
+      <string>SetOptionFromUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a5fc6632ed707ab4698ecc7d2baf862f</guid>
+    <fileName>Assets/Scripts/SetTurnTypeFromPlayerPref.cs</fileName>
+    <timeStamp>2023-05-31T15:42:04+03:00</timeStamp>
+    <typeFullName>
+      <string>SetTurnTypeFromPlayerPref</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1d7b8e8182fd4bf45b6e60a82e80af8c</guid>
+    <fileName>Assets/Scripts/SliceableObj.cs</fileName>
+    <timeStamp>2023-10-25T15:30:40.4945508+03:00</timeStamp>
+    <typeFullName>
+      <string>SliceableObj</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a7480eab82ed30543b8a25287075987c</guid>
+    <fileName>Assets/Scripts/SliceEnemy.cs</fileName>
+    <timeStamp>2023-10-25T15:33:14.2377295+03:00</timeStamp>
+    <typeFullName>
+      <string>SliceEnemy</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4a4ccf4b3fab82a4fa98dc9cc380eaaa</guid>
+    <fileName>Assets/Scripts/SwordDamage.cs</fileName>
+    <timeStamp>2023-10-20T11:15:36+03:00</timeStamp>
+    <typeFullName>
+      <string>SwordDamage</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e419a4d4b65dfb94bae6eddedee04926</guid>
+    <fileName>Assets/Scripts/UIAudio.cs</fileName>
+    <timeStamp>2023-05-31T13:47:30+03:00</timeStamp>
+    <typeFullName>
+      <string>UIAudio</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>086afa0346b08144f917365250aad1b1</guid>
+    <fileName>Assets/Scripts/VelocityEstimator.cs</fileName>
+    <timeStamp>2023-10-17T15:32:30.7114207+03:00</timeStamp>
+    <typeFullName>
+      <string>VelocityEstimator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>29b86b40f30209f4da391ec199383e48</guid>
+    <fileName>Assets/Scripts/XRGrabInteractableAttach.cs</fileName>
+    <timeStamp>2023-10-13T14:46:58.3285463+03:00</timeStamp>
+    <typeFullName>
+      <string>XRGrabInteractableAttach</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>47629655fbea02d44888526b1ba64f79</guid>
+    <fileName>Assets/EzySlice/Framework/IntersectionResult.cs</fileName>
+    <timeStamp>2023-08-10T10:30:07+03:00</timeStamp>
+    <typeFullName>
+      <string>EzySlice.IntersectionResult</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dd36eca65e736ef40af04bdb1b26e164</guid>
+    <fileName>Assets/EzySlice/Framework/Intersector.cs</fileName>
+    <timeStamp>2023-08-10T10:30:07+03:00</timeStamp>
+    <typeFullName>
+      <string>EzySlice.Intersector</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>571543ce5b240324d8e6c2a2374436b7</guid>
+    <fileName>Assets/EzySlice/Framework/Line.cs</fileName>
+    <timeStamp>2023-08-10T10:30:07+03:00</timeStamp>
+    <typeFullName>
+      <string>EzySlice.Line</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0fde67feb48121642961619b37bec5d9</guid>
+    <fileName>Assets/EzySlice/Framework/Plane.cs</fileName>
+    <timeStamp>2023-08-10T10:30:07+03:00</timeStamp>
+    <typeFullName>
+      <string>EzySlice.SideOfPlane</string>
+      <string>EzySlice.Plane</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7fccd12ecae8c8e41bb737c73dcc8ce4</guid>
+    <fileName>Assets/EzySlice/Framework/TextureRegion.cs</fileName>
+    <timeStamp>2023-08-10T10:30:07+03:00</timeStamp>
+    <typeFullName>
+      <string>EzySlice.TextureRegion</string>
+      <string>EzySlice.TextureRegionExtension</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7ac3f33b62b9c4947b187613a82efd0a</guid>
+    <fileName>Assets/EzySlice/Framework/Triangle.cs</fileName>
+    <timeStamp>2023-08-10T10:30:07+03:00</timeStamp>
+    <typeFullName>
+      <string>EzySlice.Triangle</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0a253fa41151d2b4c89139f68068b9e0</guid>
+    <fileName>Assets/EzySlice/Framework/Triangulator.cs</fileName>
+    <timeStamp>2023-08-10T10:30:07+03:00</timeStamp>
+    <typeFullName>
+      <string>EzySlice.Triangulator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9b34fcae9e8bee549bae90a7184f0904</guid>
+    <fileName>Assets/FFOS-VR-Tutorial-Resources-main/FFOSBodySocketInventory/BodySocketInventory.cs</fileName>
+    <timeStamp>2023-10-18T11:15:57.0582258+03:00</timeStamp>
+    <typeFullName>
+      <string>bodySocket</string>
+      <string>BodySocketInventory</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8ca51a205d708d74ea2534f498b1cd72</guid>
+    <fileName>Assets/FFOS-VR-Tutorial-Resources-main/FFOSControllerData/DisplayInputData.cs</fileName>
+    <timeStamp>2022-11-18T06:05:13+03:00</timeStamp>
+    <typeFullName>
+      <string>DisplayInputData</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ddca5a9ce6dfa084c89c4e10a5bad472</guid>
+    <fileName>Assets/FFOS-VR-Tutorial-Resources-main/FFOSControllerData/InputData.cs</fileName>
+    <timeStamp>2022-11-18T06:05:13+03:00</timeStamp>
+    <typeFullName>
+      <string>InputData</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>109884dcc4e0dc646b5df460a9380217</guid>
+    <fileName>Assets/FFOS-VR-Tutorial-Resources-main/FFOSFlashlight/Flashlight.cs</fileName>
+    <timeStamp>2022-11-18T06:05:13+03:00</timeStamp>
+    <typeFullName>
+      <string>Flashlight</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>00df77d6b8288ce42a467fadf2aaada0</guid>
+    <fileName>Assets/FFOS-VR-Tutorial-Resources-main/FFOSFramesPerSecond/DisplayFPS.cs</fileName>
+    <timeStamp>2022-11-18T06:05:13+03:00</timeStamp>
+    <typeFullName>
+      <string>DisplayFPS</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fcf7219bab7fe46a1ad266029b2fee19</guid>
+    <fileName>Assets/TutorialInfo/Scripts/Readme.cs</fileName>
+    <timeStamp>2022-06-08T20:42:26+03:00</timeStamp>
+    <typeFullName>
+      <string>Readme</string>
+      <string>Readme+Section</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d125b4ef3e99c9f4c82827e73f6c57e9</guid>
+    <fileName>Assets/FFOS-VR-Tutorial-Resources-main/FFOSBodySocketInventory/UltraLowPoly/FireBullet.cs</fileName>
+    <timeStamp>2022-11-18T06:05:13+03:00</timeStamp>
+    <typeFullName>
+      <string>FireBullet</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1560e0c42f6e77d429c1440b33c57ccc</guid>
+    <fileName>Assets/SciFi Warehouse Kit/Demo/Scripts/LightFlicker.cs</fileName>
+    <timeStamp>2020-06-08T06:30:31+03:00</timeStamp>
+    <typeFullName>
+      <string>LightFlicker</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2bd920a6d4c8a664f87d50801bfee470</guid>
+    <fileName>Assets/SciFi Warehouse Kit/Demo/Scripts/MouseComponent.cs</fileName>
+    <timeStamp>2020-06-08T06:30:48+03:00</timeStamp>
+    <typeFullName>
+      <string>MouseComponent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9ab0fc542e6aa6e48bf61987d199042b</guid>
+    <fileName>Assets/SciFi Warehouse Kit/Demo/Scripts/PlayerMovement.cs</fileName>
+    <timeStamp>2020-06-08T06:32:11+03:00</timeStamp>
+    <typeFullName>
+      <string>PlayerMovement</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fa804e3faf03f6e4c8bcc4681f3077fc</guid>
+    <fileName>Assets/SciFi Warehouse Kit/Demo/Scripts/PlayRandomSound.cs</fileName>
+    <timeStamp>2020-06-08T06:34:05+03:00</timeStamp>
+    <typeFullName>
+      <string>PlayRandomSound</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d0b3d149154e23543992bf2ff78e15ad</guid>
+    <fileName>Assets/SciFi Warehouse Kit/Demo/Scripts/PushPhysics.cs</fileName>
+    <timeStamp>2020-06-08T06:33:12+03:00</timeStamp>
+    <typeFullName>
+      <string>PushPhysics</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>476cc7d7cd9874016adc216baab94a0a</guid>
+    <fileName>Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs</fileName>
+    <timeStamp>2022-06-08T20:42:26+03:00</timeStamp>
+    <typeFullName>
+      <string>ReadmeEditor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ea30be5391f6c30489894a7124521ed6</guid>
+    <fileName>Assets/Vitals/Demo/Input/Input.cs</fileName>
+    <timeStamp>2023-06-22T11:53:46+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b7a8be5c5dd79bd429754b93922bc759</guid>
+    <fileName>Assets/Vitals/Scripts/Editor/ConfigEditor.cs</fileName>
+    <timeStamp>2023-06-22T11:53:44+03:00</timeStamp>
+    <typeFullName>
+      <string>Vitals.Editor.ConfigEditor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>121404ad61e744f0a5b7beb2c50b548b</guid>
+    <fileName>Assets/Vitals/Scripts/Editor/RegenerationEditor.cs</fileName>
+    <timeStamp>2023-06-22T11:53:34+03:00</timeStamp>
+    <typeFullName>
+      <string>Vitals.Editor.RegenerationEditor</string>
+      <string>Vitals.Editor.StaminaRegenerationEditor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4647f36700154395a846e0f68dbaf0fc</guid>
+    <fileName>Assets/Vitals/Scripts/Editor/VitalsBaseEditor.cs</fileName>
+    <timeStamp>2023-06-22T11:53:37+03:00</timeStamp>
+    <typeFullName>
+      <string>Vitals.Editor.VitalsBaseEditor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>deb3dd9efe964aeda2b27720dd3c4da3</guid>
+    <fileName>Assets/Vitals/Scripts/Editor/VitalsEventWrapperEditor.cs</fileName>
+    <timeStamp>2023-06-22T11:53:46+03:00</timeStamp>
+    <typeFullName>
+      <string>Vitals.Editor.VitalsEventWrapperEditor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4c14e5945bdf4b46a02064e32730d72e</guid>
+    <fileName>Assets/Vitals/Scripts/Editor/VitalsUIBindEditor.cs</fileName>
+    <timeStamp>2023-06-22T11:53:38+03:00</timeStamp>
+    <typeFullName>
+      <string>Vitals.Editor.VitalsUIBindEditor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>28d3744c239987145a4180118ad40672</guid>
+    <fileName>Assets/Vitals/Scripts/Utility/VitalsSaveUtility.cs</fileName>
+    <timeStamp>2023-06-22T11:53:36+03:00</timeStamp>
+    <typeFullName>
+      <string>Vitals.VitalsSaveUtility</string>
+      <string>Vitals.VitalSaveData</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1914f982a2c152049952462487cc49e2</guid>
+    <fileName>Assets/Vitals/Scripts/Utility/VitalsUtility.cs</fileName>
+    <timeStamp>2023-06-22T11:53:35+03:00</timeStamp>
+    <typeFullName>
+      <string>Vitals.VitalsUtility</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6f790df20be345838ea39493ad5a0cb3</guid>
+    <fileName>Assets/Vitals/Scripts/VitalsComponents/Health.cs</fileName>
+    <timeStamp>2023-06-22T11:53:39+03:00</timeStamp>
+    <typeFullName>
+      <string>Vitals.Health</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>740d5fcd25b94d89abc89660c5d2d390</guid>
+    <fileName>Assets/Vitals/Scripts/VitalsComponents/HealthRegeneration.cs</fileName>
+    <timeStamp>2023-06-22T11:53:39+03:00</timeStamp>
+    <typeFullName>
+      <string>Vitals.HealthRegeneration</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d6041c3b0dcd4e8588e42a23c9a51717</guid>
+    <fileName>Assets/Vitals/Scripts/VitalsComponents/Stamina.cs</fileName>
+    <timeStamp>2023-06-22T11:53:46+03:00</timeStamp>
+    <typeFullName>
+      <string>Vitals.Stamina</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ae1cdaac12cc4a659c35e6dc50e67cf5</guid>
+    <fileName>Assets/Vitals/Scripts/VitalsComponents/StaminaRegeneration.cs</fileName>
+    <timeStamp>2023-06-22T11:53:44+03:00</timeStamp>
+    <typeFullName>
+      <string>Vitals.StaminaRegeneration</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>18c62ac6ff0241c8b12ee07546adafdf</guid>
+    <fileName>Assets/Vitals/Scripts/VitalsComponents/VitalsEventWrapper.cs</fileName>
+    <timeStamp>2023-06-22T11:53:34+03:00</timeStamp>
+    <typeFullName>
+      <string>Vitals.VitalsEventWrapper</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ce9ccc81c5724149ac8d86f2175ed55f</guid>
+    <fileName>Assets/Vitals/Scripts/VitalsCore/RegenerationBase.cs</fileName>
+    <timeStamp>2023-06-22T11:53:45+03:00</timeStamp>
+    <typeFullName>
+      <string>Vitals.RegenerationBase</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fea404a01c564ee78f6380da6445f41e</guid>
+    <fileName>Assets/Vitals/Scripts/VitalsCore/VitalsBase.cs</fileName>
+    <timeStamp>2023-06-22T11:53:48+03:00</timeStamp>
+    <typeFullName>
+      <string>Vitals.VitalsBase</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>23e3694e1adf47ed847ab2a1deeba881</guid>
+    <fileName>Assets/Vitals/Scripts/VitalsCore/VitalsConfig.cs</fileName>
+    <timeStamp>2023-06-22T11:53:35+03:00</timeStamp>
+    <typeFullName>
+      <string>Vitals.VitalsConfig</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>59fd484e237549798177d93b82660563</guid>
+    <fileName>Assets/Vitals/Scripts/VitalsCore/VitalsHook.cs</fileName>
+    <timeStamp>2023-06-22T11:53:38+03:00</timeStamp>
+    <typeFullName>
+      <string>Vitals.VitalsHook</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8e1b637807ddc10439cc54747e0c37d9</guid>
+    <fileName>Assets/Vitals/Scripts/VitalsUI/VitalsUIBind.cs</fileName>
+    <timeStamp>2023-06-22T11:53:42+03:00</timeStamp>
+    <typeFullName>
+      <string>Vitals.VitalsUIBind</string>
+      <string>Vitals.UIType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b389e42d7e00a0544b0d7e4f9c47e1c3</guid>
+    <fileName>Assets/FFOS-Unity-VR-Template-main/Assets/Scripts/FFOSScripts/CharacterControllerHMDUpdater.cs</fileName>
+    <timeStamp>2023-05-19T00:41:37+03:00</timeStamp>
+    <typeFullName>
+      <string>CharacterControllerHMDUpdater</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fbef9345a784cc74abd626bc5dcc61f0</guid>
+    <fileName>Assets/FFOS-Unity-VR-Template-main/Assets/Scripts/FFOSScripts/Hand.cs</fileName>
+    <timeStamp>2023-05-19T00:41:37+03:00</timeStamp>
+    <typeFullName>
+      <string>Hand</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d3d6ac5ac0e8e2a49a91b0b66d8b4843</guid>
+    <fileName>Assets/FFOS-Unity-VR-Template-main/Assets/Scripts/FFOSScripts/TeleportationController.cs</fileName>
+    <timeStamp>2023-05-19T00:41:37+03:00</timeStamp>
+    <typeFullName>
+      <string>TeleportationController</string>
+      <string>TeleportationController+ControllerType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f862b232a2e746547a22dab91fee5b93</guid>
+    <fileName>Assets/Vitals/Demo/Scripts/EnemyDemoScene/CanvasLook.cs</fileName>
+    <timeStamp>2023-06-22T11:53:47+03:00</timeStamp>
+    <typeFullName>
+      <string>Vitals.CanvasLook</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>95fb0ef372e71984eacd780c381ed3dd</guid>
+    <fileName>Assets/Vitals/Demo/Scripts/EnemyDemoScene/EnemyDamager.cs</fileName>
+    <timeStamp>2023-10-16T11:43:41+03:00</timeStamp>
+    <typeFullName>
+      <string>Vitals.EnemyDamager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>81870dff28021a14680694549532a55f</guid>
+    <fileName>Assets/Vitals/Demo/Scripts/EnemyDemoScene/EnemyDemo.cs</fileName>
+    <timeStamp>2023-06-22T11:53:41+03:00</timeStamp>
+    <typeFullName>
+      <string>Vitals.EnemyDemo</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9e8d9173b11e44be9db7bf7a97897116</guid>
+    <fileName>Assets/Vitals/Demo/Scripts/EnemyDemoScene/EnemySpawner.cs</fileName>
+    <timeStamp>2023-06-22T11:53:43+03:00</timeStamp>
+    <typeFullName>
+      <string>Vitals.EnemySpawner</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>40e1a9032947a8743bd87fe9ef6e21e9</guid>
+    <fileName>Assets/Vitals/Demo/Scripts/HealthDemoScene/DemoCharacter.cs</fileName>
+    <timeStamp>2023-06-22T11:53:37+03:00</timeStamp>
+    <typeFullName>
+      <string>Vitals.DemoCharacter</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fd108c296c17e644bacfbffb7dead71f</guid>
+    <fileName>Assets/Vitals/Demo/Scripts/HealthDemoScene/VitalsDemoScript.cs</fileName>
+    <timeStamp>2023-06-22T11:53:47+03:00</timeStamp>
+    <typeFullName>
+      <string>Vitals.VitalsDemoScript</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b98414f763e4422e98a5a9c8a1b1b03b</guid>
+    <fileName>Assets/Vitals/Scripts/VitalsCore/Interfaces/IRegeneration.cs</fileName>
+    <timeStamp>2023-06-22T11:53:45+03:00</timeStamp>
+    <typeFullName>
+      <string>Vitals.IRegeneration</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a2aaf0b4c36d0bb4c99205d1d426b7f7</guid>
+    <fileName>Assets/Vitals/Scripts/VitalsCore/Interfaces/IVitalsComponent.cs</fileName>
+    <timeStamp>2023-06-22T11:53:43+03:00</timeStamp>
+    <typeFullName>
+      <string>Vitals.IVitalsComponent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f9ac216f0eb04754b1d938aac6380b31</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/2.5.2/Starter Assets/Scripts/ActionBasedControllerManager.cs</fileName>
+    <timeStamp>2023-10-06T11:01:45+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>717c12e2a4cfe764ab2580b1135e10fd</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/2.5.2/Starter Assets/Scripts/DestroySelf.cs</fileName>
+    <timeStamp>2023-10-06T11:01:45+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9b1e8c997df241c1a67045eeac79b41b</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/2.5.2/Starter Assets/Scripts/DynamicMoveProvider.cs</fileName>
+    <timeStamp>2023-10-06T11:01:45+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6ef0e4723b64c884699a375196c13ac0</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/2.5.2/Starter Assets/Scripts/GazeInputManager.cs</fileName>
+    <timeStamp>2023-10-06T11:01:45+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>956dd6cf70eaca449a45b6a95b96c8c1</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/2.5.2/Starter Assets/Scripts/ObjectSpawner.cs</fileName>
+    <timeStamp>2023-10-06T11:01:45+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>07b3638c2f5db5b479ff24c2859713d4</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/2.5.2/Starter Assets/Scripts/XRPokeFollowAffordance.cs</fileName>
+    <timeStamp>2023-10-06T11:01:45+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ba6ff5e7c92519444bc2a7ca46558963</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/2.5.2/Starter Assets/DemoSceneAssets/Scripts/IncrementUIText.cs</fileName>
+    <timeStamp>2023-10-06T11:01:45+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ef67ceb22b2224643a2d5004fc2a678a</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/2.5.2/Starter Assets/Editor/Scripts/StarterAssetsSampleProjectValidation.cs</fileName>
+    <timeStamp>2023-10-06T11:01:45+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+</ArrayOfTypeDate>
